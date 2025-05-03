@@ -25,6 +25,9 @@ To provide a decentralized, cost-effective, and efficient alternative to traditi
 
 **Contract Address**: CDCW5XLZ64EM2T75OJQEFNS5QJEDHTJSIATR62KKT544F4TGTJZMKR6D
 
+![image](https://github.com/user-attachments/assets/a4fd6e31-3444-476c-b8bd-70df2219bc46)
+
+
 - **Contract Name**: P2PShippingContract
 - **Functions**:
   - `create_shipment(sender, receiver, amount, description)`: Creates a new shipment request.
